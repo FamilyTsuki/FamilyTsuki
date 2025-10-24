@@ -1,6 +1,6 @@
 # 👋 Yo, moi c’est tsuki !
 
-Bienvenue sur mon petit coin du net 😎  
+Bienvenue sur mon petit repère 😎  
 Ici, c’est pas une usine à projets parfaits…  
 C’est plutôt un **terrain de jeu pour code foireux, idées cheloues et tests improbables** 💥
 
