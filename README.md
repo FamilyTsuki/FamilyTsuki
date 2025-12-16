@@ -21,5 +21,5 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/FamilyTsuki/FamilyTsuki/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/VOTRE_PSEUDO/VOTRE_PSEUDO/blob/output/github-contribution-grid-snake.svg)
 
