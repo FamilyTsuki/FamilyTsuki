@@ -21,5 +21,5 @@
 </p>
 
 
-![Snake animation](https://github.com/VOTRE_PSEUDO/VOTRE_PSEUDO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FamilyTsuki/FamilyTsuki/blob/output/github-contribution-grid-snake.svg)
 
