@@ -19,3 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FamilyTsuki&theme=dark&hide_border=true&layout=compact&hide=html" />
 </p>
+
+
+<img src="https://raw.githubusercontent.com/FamilyTsuki/FamilyTsuki/output/snake.svg" alt="Snake animation" />
