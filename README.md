@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,c,html,css,mysql,git,github,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,python,c,html,css,mysql,git,github,docker&perline=3" />
 </p>
 
 ## 📊 GitHub Stats
