@@ -23,3 +23,4 @@
 
 ![Snake animation](https://github.com/FamilyTsuki/FamilyTsuki/blob/output/github-contribution-grid-snake.svg)
 
+![Mon Chat Noir](./image_chat.png)
