@@ -11,7 +11,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,python,c&perline=12" />
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&perline=6" />
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
   <img src="https://skillicons.dev/icons?i=git,github,docker&perline=5" />
 </p>
