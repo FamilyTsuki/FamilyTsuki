@@ -15,3 +15,9 @@
   <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
   <img src="https://skillicons.dev/icons?i=git,github,docker&perline=5" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitPrmt&theme=dark&hide_border=true&layout=compact&hide=html" />
+</p>
