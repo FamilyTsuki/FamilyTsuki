@@ -23,6 +23,6 @@
 
 ![Snake animation](https://github.com/FamilyTsuki/FamilyTsuki/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
+<p align="right">
   <img src="./image_chat.png" alt="Chat noir" width="200">
 </p>
