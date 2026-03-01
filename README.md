@@ -2,8 +2,8 @@
 ## ***<p align="center">Elie alban</p>***
 
 ## 🧠 About Me
-- 🧠 17 ans, étudiant à **Coda**, une école d’informatique
-- 💬 J’aime tester, crée, louper, recommencer, et apprendre en faisant n’importe quoi (mais avec style )  
+- 🧠 17 ans, étudiant à **Coda School**, une école d’informatique d'Orléans
+- 💬 J’aime tester, créer, louper, recommencer, et apprendre avec tout ce qui me tombe sous la main (mais avec style) 
 - 🎮 Fan de **Minecraft** et **Subnautica** — j’aime les mondes où tu peux construire et explorer
 - ⚙️ Mon but : m'amuser en codant tout et n'importe quoi
 
