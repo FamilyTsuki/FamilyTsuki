@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FamilyTsuki&theme=dark&hide_border=true&layout=compact&hide=html" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FamilyTsuki&theme=dark" alt="Top Languages" />
 </p>
 
 
