@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=alban%20elie&fontSize=42&fontColor=ffffff&desc=Versatile%20computer%20science%20enthusiast%20exploring%20modern%20software%20development.&descSize=18&descAlign=50&descAlignY=58)
+<div align="center">
+
 # **<p align="center">🐱Tsuki🐱</p>**
 ## ***<p align="center">Elie alban</p>***
 
