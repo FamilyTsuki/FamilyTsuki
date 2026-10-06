@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=Elie%20Alban&fontSize=42&fontColor=ffffff&desc=Versatile%20computer%20science%20enthusiast%20exploring%20modern%20software%20development.&descSize=18&descAlign=50&alignY=35&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=Elie%20Alban&fontSize=42&fontColor=ffffff&desc=Versatile%20computer%20science%20enthusiast%20exploring%20modern%20software%20development.&descSize=18&descAlign=50&alignY=35&descAlignY=5)
 
 <h1 align="center">🐱 Tsuki 🐱</h1>
 
