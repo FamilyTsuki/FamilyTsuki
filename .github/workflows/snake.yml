@@ -1,38 +1,27 @@
-name: generate animation
+name: generate snake
 
 on:
-  # Exécution automatique toutes les 24h
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Permet de lancer manuellement depuis l'onglet Actions
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  
-  # Lance le script à chaque fois qu'on pousse sur la branche main
   push:
-    branches:
-    - main
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 1
-    
     steps:
-      # Génère le serpent à partir de vos contributions
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: FamilyTsuki
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#a371f7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a371f7
 
-      # Pousse le fichier généré dans une branche nommée 'output'
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
